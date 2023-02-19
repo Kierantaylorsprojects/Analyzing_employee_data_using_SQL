@@ -73,13 +73,3 @@ CREATE TABLE dept_emp(
 <li><a href = "Query Results/Query 7_data-1676233191647.csv"> Sales and Development Enployees (employee number, last & first name, dept name) </a></li>
 <li><a href = "Query Results/Query 8_data-1676234311246.csv"> List of Last Names (frequency counts in descending order) </a></li>
 
-
-## Query Details
-<li><a href = "EmployeeSQL/Query #1.sql"> Query #1 </a></li>
-<li><a href = "EmployeeSQL/Query #2.sql"> Query #2 </a></li>
-<li><a href = "EmployeeSQL/Query #3.sql"> Query #3 </a></li>
-<li><a href = "EmployeeSQL/Query #4.sql"> Query #4 </a></li>
-<li><a href = "EmployeeSQL/Query #5.sql"> Query #5 </a></li>
-<li><a href = "EmployeeSQL/Query #6.sql"> Query #6 </a></li>
-<li><a href = "EmployeeSQL/Query #7.sql"> Query #7 </a></li>
-<li><a href = "EmployeeSQL/Query #8.sql"> Query #8 </a></li>
