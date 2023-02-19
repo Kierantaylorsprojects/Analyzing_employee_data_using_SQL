@@ -21,11 +21,18 @@
 
 ## Data Analysis
   
-<li><a href = "Query Results/Query 1_data-1676224140167.csv"> Complete Employee Listing (employee number, last & first name, sex, salary) </a></li>
-<li><a href = "Query Results/Query 2_data-1676227624276.csv"> Employees Hired in 1986 (first & last name, hire date) </a></li>
-<li><a href = "Query Results/Query 3_data-1676229890024.csv"> Department Managers (dept number, dept name, employee number, last & first name) </a></li>
-<li><a href = "Query Results/Query 4_data-1676231835786.csv"> Employees’ Department Numbers (employee number, last & first name, dept name) </a></li>
-<li><a href = "Query Results/Query 5_data-1676232646666.csv"> First Name 'Hercules' & Last Name 'B' Listing (first & last name, sex) </a></li>
-<li><a href = "Query Results/Query 6_data-1676232994548.csv"> Sales Department Employees (employee number, last & first name) </a></li>
-<li><a href = "Query Results/Query 7_data-1676233191647.csv"> Sales and Development Enployees (employee number, last & first name, dept name) </a></li>
-<li><a href = "Query Results/Query 8_data-1676234311246.csv"> List of Last Names (frequency counts in descending order) </a></li>
+1. Listed the employee number, last name, first name, sex, and salary of each employee.
+
+2. Listed the first name, last name, and hire date for the employees who were hired in 1986.
+
+3. Listed the manager of each department along with their department number, department name, employee number, last name, and first name.
+
+4. Listed the department number for each employee along with that employee’s employee number, last name, first name, and department name.
+
+5. Listed first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
+
+6. Listed each employee in the Sales department, including their employee number, last name, and first name.
+
+7. Listed each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
+
+8. Listed the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
