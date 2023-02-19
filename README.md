@@ -6,14 +6,14 @@
 
 ### 3. I then completed queries to answer key HR questions. 
 
-### 4. Once this was completed I used QuickDBD and pgAdmin to create the ERDs. 
+### 4. Once this was completed I used Lucid Chart to create the ERD. 
 
 ### 5. I then finished this project by running multiple queries to generate the reports.
 
 ## Data Modeling
 
 
-<img src = "Images/PewlettHackard_db_ERD_QuickDBD.png">
+<img src = "Images/ERD.png">
 
 ## Data Engineering
 
