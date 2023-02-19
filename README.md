@@ -1,6 +1,6 @@
 # Organizing_employee_data_using_SQL
 
-### 1. In this project, I started by usingn Lucid Chart to create an ERD. 
+### 1. In this project, I started by using Lucid Chart to create an ERD. 
 
 ### 2. I then used SQL to analyze a companies employees during the 1980's and 1990's using data from 6 CSV files. 
 
