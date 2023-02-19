@@ -8,7 +8,7 @@
 
 ### 4. I then completed queries to answer key HR questions. 
 
-### 5. I then finished this project by running multiple queries to generate the reports.
+### 5. I finished this project by running multiple queries to generate the reports.
 
 ## Data Modeling
 
