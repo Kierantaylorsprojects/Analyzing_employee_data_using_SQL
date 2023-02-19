@@ -1,14 +1,14 @@
 # Organizing_employee_data_using_SQL
 
-## In this project, I used SQL to analyze a companies employees during the 1980's and 1990's using data from 6 CSV files. 
+### In this project, I used SQL to analyze a companies employees during the 1980's and 1990's using data from 6 CSV files. 
 
-## More speficially, I designed a SQL database and created six tables to correspond with the six different CSV files. 
+### More speficially, I designed a SQL database and created six tables to correspond with the six different CSV files. 
 
-## I then completed queries to answer key HR questions. 
+### I then completed queries to answer key HR questions. 
 
-## Once this was completed I used QuickDBD and pgAdmin to create the ERDs. 
+### Once this was completed I used QuickDBD and pgAdmin to create the ERDs. 
 
-## I then finished this project by running multiple queries to generate the reports.
+### I then finished this project by running multiple queries to generate the reports.
 
 <ul> •	Designed an SQL database </ul>
 <ul> •	Created six tables to correspond to the six CSV files </ul>
