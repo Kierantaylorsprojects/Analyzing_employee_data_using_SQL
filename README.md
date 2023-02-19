@@ -17,7 +17,9 @@
 
 ## Data Engineering
 
-```
+<img src = "Images/Data_Engin.png">
+
+``
 CREATE TABLE titles(
 	title_id VARCHAR(5) NOT NULL PRIMARY KEY, 
 	title VARCHAR (30)
