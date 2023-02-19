@@ -14,7 +14,6 @@
 
 
 <img src = "Images/PewlettHackard_db_ERD_QuickDBD.png">
-<img src = "Images/PewlettHackard_db_ERD.png">
 
 ## Data Engineering
 
