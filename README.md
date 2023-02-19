@@ -1,12 +1,12 @@
 # Organizing_employee_data_using_SQL
 
-### 1. In this project, I used SQL to analyze a companies employees during the 1980's and 1990's using data from 6 CSV files. 
+### 1. In this project, I started by usingn Lucid Chart to create an ERD. 
 
-### 2. More speficially, I designed a SQL database and created six tables to correspond with the six different CSV files. 
+### 2. I then used SQL to analyze a companies employees during the 1980's and 1990's using data from 6 CSV files. 
 
-### 3. I then completed queries to answer key HR questions. 
+### 3. More specifically, I designed a SQL database and created six tables to correspond with the six different CSV files. 
 
-### 4. Once this was completed I used Lucid Chart to create the ERD. 
+### 4. I then completed queries to answer key HR questions. 
 
 ### 5. I then finished this project by running multiple queries to generate the reports.
 
