@@ -1,9 +1,15 @@
-# Pewlett Hackard SQL Analysis
+# Organizing_employee_data_using_SQL
 
-## Overview of Project
-The purpose of this project was to analyze Company employees during the 1980s and 1990s. All that remains of the employee database from that time period were six CSV files.
+## In this project, I used SQL to analyze a companies employees during the 1980's and 1990's using data from 6 CSV files. 
 
-Data modeling, data engineering, and data analysis were completed for the analysis.  Specifically, the following steps were completed:
+## More speficially, I designed a SQL database and created six tables to correspond with the six different CSV files. 
+
+## I then completed queries to answer key HR questions. 
+
+## Once this was completed I used QuickDBD and pgAdmin to create the ERDs. 
+
+## I then finished this project by running multiple queries to generate the reports.
+
 <ul> •	Designed an SQL database </ul>
 <ul> •	Created six tables to correspond to the six CSV files </ul>
 <ul> •	Imported data from the CSV files </ul>
@@ -17,7 +23,7 @@ QuickDBD and pgAdmin were used to created the below ERDs.
 <img src = "Images/PewlettHackard_db_ERD.png">
 
 ## Data Engineering
-Below is the table schema developed for the database. The corresponding CSV files were then imported to each table.
+
 ```
 CREATE TABLE titles(
 	title_id VARCHAR(5) NOT NULL PRIMARY KEY, 
@@ -64,7 +70,7 @@ CREATE TABLE dept_emp(
 ```
 
 ## Data Analysis
-For the data analysis portion of the project, eight queries were run to generate the following reports:  
+  
 <li><a href = "Query Results/Query 1_data-1676224140167.csv"> Complete Employee Listing (employee number, last & first name, sex, salary) </a></li>
 <li><a href = "Query Results/Query 2_data-1676227624276.csv"> Employees Hired in 1986 (first & last name, hire date) </a></li>
 <li><a href = "Query Results/Query 3_data-1676229890024.csv"> Department Managers (dept number, dept name, employee number, last & first name) </a></li>
@@ -84,10 +90,3 @@ For the data analysis portion of the project, eight queries were run to generate
 <li><a href = "EmployeeSQL/Query #6.sql"> Query #6 </a></li>
 <li><a href = "EmployeeSQL/Query #7.sql"> Query #7 </a></li>
 <li><a href = "EmployeeSQL/Query #8.sql"> Query #8 </a></li>
-
-
-## Resources
-#### Data Sources: 
-departments.csv, dept_emp.csvdept_manager.csv, employees.csv, salaries.csv, titles.csv
-#### Software: 
-SQL, PostgresSQL, pgAdmin, QuickDBD, VSCode
