@@ -10,12 +10,6 @@
 
 ### I then finished this project by running multiple queries to generate the reports.
 
-<ul> •	Designed an SQL database </ul>
-<ul> •	Created six tables to correspond to the six CSV files </ul>
-<ul> •	Imported data from the CSV files </ul>
-<ul> •	Completed queries to answer key HR questions </ul>
-<hr>
-
 ## Data Modeling
 QuickDBD and pgAdmin were used to created the below ERDs.
 
