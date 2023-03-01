@@ -1,4 +1,4 @@
-# Organizing_employee_data_using_SQL
+# Analyzing_employee_data_using_SQL
 
 ### 1. In this project, I started by using Lucid Chart to create an ERD. 
 
